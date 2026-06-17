@@ -1,0 +1,10 @@
+# NOTE: Torch wheels are platform-specific. Install torch/torchvision separately if needed.
+torch
+torchvision
+opencv-python
+numpy
+scipy
+h5py
+pandas
+matplotlib
+tqdm
